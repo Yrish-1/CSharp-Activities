@@ -1,7 +1,15 @@
 <Solution>
   <Folder Name="/Practice Activity/" />
+  <Folder Name="/Practice Activity/Laboratory Activity/" />
+  <Folder Name="/Practice Activity/Laboratory Activity/Laboratory Activity 1 - 24-FEB-2026/" />
+  <Folder Name="/Practice Activity/Laboratory Activity/Laboratory Activity 1 - 24-FEB-2026/01 - Pentagon/">
+    <Project Path="Pentagon/Pentagon.csproj" Id="99d3a878-0570-4b53-a9eb-fdc7c8789508" />
+  </Folder>
+  <Folder Name="/Practice Activity/Laboratory Activity/Laboratory Activity 1 - 24-FEB-2026/02 - Music Playlist Organizer/">
+    <Project Path="Music Playlist Organizer/Music Playlist Organizer.csproj" Id="353c4cd1-44dc-4004-b371-07e76a607ca2" />
+  </Folder>
   <Folder Name="/Practice Activity/Practice Activity 1/">
-    <Project Path="CurrencyConverter/CurrencyConverter.csproj" />
-    <Project Path="InterestCalculator/InterestCalculator.csproj" />
+    <Project Path="../CurrencyConverter/CurrencyConverter.csproj" />
+    <Project Path="../InterestCalculator/InterestCalculator.csproj" />
   </Folder>
 </Solution>
